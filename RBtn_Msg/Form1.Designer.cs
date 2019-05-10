@@ -97,7 +97,6 @@
             this.rbYesNo.TabStop = true;
             this.rbYesNo.Text = "YesNo";
             this.rbYesNo.UseVisualStyleBackColor = true;
-            this.rbYesNo.CheckedChanged += new System.EventHandler(this.radioButton3_CheckedChanged);
             // 
             // rbError
             // 
